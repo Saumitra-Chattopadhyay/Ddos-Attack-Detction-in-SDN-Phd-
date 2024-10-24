@@ -61,18 +61,6 @@ The results indicate that both Boosting and Bagging classifiers are highly effec
 - **nsl-kdd.ipynb:** Implementation on NSL-KDD dataset.
 - **sdn-nisha-ahuja.ipynb:** Implementation on Nisha Ahuja's dataset.
 
-## How to Run
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Saumitra-Chattopadhyay/Ddos-Attack-Detection-in-SDN-Phd.git
-   ```
-2. Install the required dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. Run the Jupyter notebooks to view the implementation for each dataset.
-
 ## Acknowledgements
 
 This research utilizes publicly available datasets and focuses on improving DDoS detection mechanisms through advanced ensemble learning techniques.
